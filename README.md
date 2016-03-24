@@ -1,6 +1,6 @@
 # react-i18n-example
 
-Example source code for my blog post [Going global with React](http://blog.jorisooms.be/going-global-with-react/).
+Example source code for my blog post [Going global with React](http://blog.cupofcode.be/going-global-with-react/).
 
 ## Running the example
 
